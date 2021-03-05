@@ -1,6 +1,12 @@
 # hackintosh-asrock-z490m-itx/ac
 With i7-10700/5500XT/SN750-1T/BCM94360CS2
 
+**Software list**
+|Software|Version|
+|:--------|:-------|
+|MacOS|Big Sur 11.2.2|
+|OpenCore|0.6.6|
+
 **Hardware Spec list**
 |Hardware|Model|
 |:--------|:-------|
